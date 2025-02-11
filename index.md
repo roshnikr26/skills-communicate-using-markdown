@@ -2,3 +2,5 @@
 __italic content__
 
 _tried_ out various tryouts using **Markdown**
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
